@@ -2,7 +2,8 @@
 
 Website Link:- https://allainplumbing.ca
 
-![Uploading screencapture-allainplumbing-ca-2023-09-15-22_32_26.png…]()
+![screencapture-allainplumbing-ca-2023-09-15-22_32_26](https://github.com/shraddhaH28/WordPress_Project-2/assets/145140944/cfed3ddd-9d47-4fdb-b921-f9793f9a89d6)
+
 
 Homepage: The homepage features a professional and welcoming design. It includes a hero banner showcasing a skilled plumber at work with a clear call-to-action button directing visitors to request services or learn more about our offerings.
 
